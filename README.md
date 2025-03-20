@@ -1,16 +1,15 @@
-## Hi there 👋
+# 👋 Hi, I'm Savage777-creator  
+### 🚀 Aspiring Developer | Learning GitHub & Freelancing  
 
-<!--
-**Savage777-creator/Savage777-creator** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm just starting my journey in tech and freelancing. I'm learning how to:  
+- 💻 Code and build projects  
+- 🔧 Automate tasks with Python  
+- 🌐 Create simple websites  
 
-Here are some ideas to get you started:
+### 📌 What I'm Working On  
+- Uploading my first projects to GitHub  
+- Learning freelancing skills to start earning  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 Let's Connect!  
+- GitHub: Savage777-creator
+- Savage777-creator  
